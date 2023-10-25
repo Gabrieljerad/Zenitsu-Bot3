@@ -10,27 +10,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918348225320'] //ur owner number
-global.ownernomer = "918348225320" //ur owner number2
-global.ownername = "🦄Dream Guy Deepak" //ur owner name
-global.ytname = "YT: Deepak" //ur yt chanel name
-global.socialm = "GitHub: DGDEEPAK" //ur github or insta name
+global.owner = ['254719316198'] //ur owner number
+global.ownernomer = "254719316198" //ur owner number2
+global.ownername = "Gabby" //ur owner name
+global.ytname = "YT: null" //ur yt chanel name
+global.socialm = "GitHub: Gabrieljerad" //ur github or insta name
 global.location = "India, West Bengal, Darjeeling" //ur location
 
 //new
-global.botname = "Zenitsu-Bot"
-global.ownernumber = '918348225320'
-global.ownername = '🦄Dream Guy Deepak'
-global.ownerNumber = ["918348225320@s.whatsapp.net"]
+global.botname = "Gabby-Bot"
+global.ownernumber = '254719316198'
+global.ownername = 'Gabby'
+global.ownerNumber = ["254719316198@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@dreamguydeepak"
 global.websitex = "https://youtube.com/@dreamguydeepak"
-global.wagc = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1"
+global.wagc = "https://chat.whatsapp.com/KguTW2iESYuHzVX1"
 global.themeemoji = '🫂'
-global.wm = "DeepaK Bot Inc."
-global.botscript = 'https://github.com/DGDEEPAK/Zenitsu-Bot3' //script link
-global.packname = "Zenitsu-Bot"
-global.author = "🦄Dream Guy Deepak"
-global.creator = "918348225320@s.whatsapp.net"
+global.wm = "Gabby Bot Inc."
+global.botscript = 'gat you mofo🤣' //script link
+global.packname = "Gabby-Bot"
+global.author = "Gabby"
+global.creator = "254719316198@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
 
